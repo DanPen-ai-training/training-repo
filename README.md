@@ -3,10 +3,11 @@
 ### Install
 This project requires Python 3.6 and the following Python libraries installed:
 
-NumPy
-Pandas
-matplotlib
-scikit-learn
+- NumPy
+- Pandas
+- matplotlib
+- scikit-learn
+- xgboost
 
 In addition, a software for running iPython Notebooks has to be installed, such as Anaconda.
 
